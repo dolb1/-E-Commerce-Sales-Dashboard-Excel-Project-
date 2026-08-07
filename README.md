@@ -27,7 +27,8 @@ It highlights customer behavior, product popularity, delivery performance, and r
 - **Customer Satisfaction**: Majority of customers rated 4–5 stars across months.
 
 ## 📸 Dashboard Preview
-*(Upload screenshots from your Excel dashboard into `/images` and embed here)*
+<img width="1171" height="609" alt="Screenshot 2026-08-07 073912" src="https://github.com/user-attachments/assets/578c4220-cd5a-475c-b905-f00f0ab8aeda" />
+
 
 ## 🎯 Business Insights
 - Los Angeles County generated the highest revenue (~₹71,609).  
@@ -42,8 +43,8 @@ It highlights customer behavior, product popularity, delivery performance, and r
 4. Review KPIs and charts for actionable insights.
 
 ## 📂 Repository Structure
-- `ecommerce-blank.xlsx` → Main dashboard file  
-- `/images` → Dashboard screenshots (to be added)  
+- `file.xlsx` → Main dashboard file  
+- `Dashboard` → Dashboard screenshots (to be added)  
 - `README.md` → Project documentation  
 
 ---
